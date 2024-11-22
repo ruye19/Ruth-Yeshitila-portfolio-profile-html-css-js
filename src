@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>ruth yeshitila's portfolio</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <!-- Favicons -->
+  <link href="assets/touch.ico" rel="icon">
+  <link href="assets/touch.ico" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+
+
+  <!-- Main CSS File -->
+  <link href="assets/css/styles.css" rel="stylesheet">
+
+
+</head>
+
+<body class="index-page">
+
+  <header id="header" class="header-wrapper">
+    <div class="site-wrapper">
+
+      <a href="index.html" class="">
+
+        <h1 class="sitename">Ru.Ye</h1>
+      </a>
+
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="#hero" class="active">Home<br></a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#Resume">Resume</a></li>
+          <li><a href="#Projects">Projects</a></li>
+          <li><a href="#Contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+
+
+  <main class="main">
+
+    <!-- Home Section -->
+    <section id="Home" class="hero-section ">
+
+      <img src="assets/ales-nesetril-Im7lZjxeLhg-unsplash.jpg" alt="">
+
+      <div class="container">
+        <h2>I am Ruth Yeshitila</h2>
+        <p><span class="typed" data-typed-items="graphics Designer, Developer, Freelancer, Video editor"></span></p>
+      </div>
+
+    </section>
+    <!-- /Home Section -->
+
+
+    <!-- About Section -->
+    <section id="about" class="about-section">
+
+      <div class="container">
+
+        <div class="">
+          <div class="">
+
+            <div class="">
+              <div class="">
+                <img src="assets/photo_2024-10-27_14-29-12.jpg" class="" alt="">
+              </div>
+              <div class="">
+                <p><strong>Name: </strong> <span>Ruth Yeshitila</span></p>
+                <p><strong>Profile: </strong> <span>full stack developer </span></p>
+                <p><strong>Email: </strong> <span>ruthyeshitla12@gmail.com</span></p>
+                <p><strong>Phone: </strong> <span>(090) 1851-873</span></p>
+              </div>
+            </div>
+
+            <!-- table skill  -->
+            <h2>Skills Section</h2>
+            <table>
+              <tr>
+                <th>Skill</th>
+                <th>Proficiency</th>
+              </tr>
+              <tr>
+                <td>HTML</td>
+                <td><progress value="90" max="100"></progress></td>
+              </tr>
+              <tr>
+                <td>CSS</td>
+                <td><progress value="75" max="100"></progress></td>
+              </tr>
+              <tr>
+                <td>JavaScript</td>
+                <td><progress value="60" max="100"></progress></td>
+              </tr>
+              <tr>
+                <td>Python</td>
+                <td><progress value="80" max="100"></progress></td>
+              </tr>
+            </table>
+
+            <div class="">
+              <div class="about-me">
+                <h4>About me</h4>
+                <p>
+                  I am a creative and results-oriented software engineering student passionate about solving real-world
+                  problems through technology. With experience in web development, programming, and database design, I
+                  thrive on crafting efficient and user-friendly solutions. My goal is to blend innovation with
+                  practicality to make a positive impact in the tech industry.
+                </p>
+                <p>
+                  As a software engineering student and organizer of the Girls AI Club, I bring strong leadership and
+                  collaboration skills to every project. I have successfully led initiatives that empower others, from
+                  organizing workshops to spearheading team projects. I am eager to grow my expertise while fostering
+                  teamwork and innovation in the tech field
+                </p>
+                <p>
+                  I am a dedicated software engineering student with a passion for using technology to uplift
+                  underserved communities. Through volunteering and technical projects, I have developed practical
+                  skills while making a tangible difference. My aspiration is to create digital solutions that improve
+                  accessibility and empower others to thrive in the digital age
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </section><!-- /About Section -->
+
+
+    <!-- Resume Section -->
+    <section id="resume" class="resume-section">
+
+      <!-- Section Title -->
+      <div class="section-title">
+        <h2>Resume</h2>
+        <p>Innovative Software Engineering Student with a Passion for Technology and Community Impact</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+        <div class="">
+          <div class="">
+            <h3 class="resume-title">Sumary</h3>
+
+            <div class="resume-item">
+              <h4>Ruth Yeshitila</h4>
+              <p><em>Dedicated software engineering student with expertise in programming, web development, and database
+                  management. Experienced in leading tech initiatives and collaborating on innovative projects.
+                  Passionate about using technology to solve real-world problems and empower underserved communities.
+                  Aspiring full-stack developer with a vision to create impactful digital solutions.</em></p>
+              <ul>
+                <li>4 kiLo,Addis Ababa</li>
+                <li>(090) 185-1873</li>
+                <li>ruthyeshitla12@gmail.com</li>
+              </ul>
+            </div><!-- End Resume Item -->
+
+
+
+            <div class="resume-item">
+              <h4>Bachelor of science &amp; software engineering</h4>
+              <h5>2021 - present</h5>
+              <p><em>Addis ababa university</em>></p>
+              <p>Currently pursuing a Bachelor of Science in Software Engineering, focusing on key areas such as
+                programming, database management, web development, and software engineering principles. Gaining hands-on
+                experience through academic projects, including developing e-banking systems and designing databases for
+                real-world applications. Dedicated to continuous learning and honing technical skills to contribute
+                effectively to future software development projects.</p>
+
+            </div><!-- End Resume Item -->
+            <div class="resume-item">
+              <h4>Bachelor of science in full stack </h4>
+              <h5>2021 - present</h5>
+              <p><em></em>/em></p>
+              <p>Currently pursuing a degree in Full Stack Development, with a focus on front-end and back-end
+                technologies, database management, and building scalable web applications.</p>
+            </div><!-- End Resume Item -->
+
+          </div>
+
+          <div class="">
+            <h3 class="resume-title">Professional Experience</h3>
+            <div class="resume-item">
+              <h4>As full stack</h4>
+              <h5>2024 - Present</h5>
+              <p><em></em></p>
+              <ul>
+                <li>Lead the development and deployment of web applications, ensuring both front-end user experience and
+                  back-end functionality are optimized for performance and scalability</li>
+                <li>Collaborate with cross-functional teams to design, integrate, and maintain APIs, ensuring seamless
+                  data flow between front-end and back-end components.</li>
+                <li>Supervise the testing, debugging, and code review processes to maintain high-quality standards,
+                  security, and efficiency in all stages of development.</li>
+                <li>Manage project resources, timelines, and budgets, ensuring successful delivery of projects while
+                  meeting client expectations.</li>
+              </ul>
+            </div><!-- End Resume Item -->
+
+            <div class="resume-item">
+              <h4>Software Engineering Intern</h4>
+              <h5>2023 - Present</h5>
+              <p><em>Addis Ababa, 4 Kilo, Addis Ababa</em></p>
+              <ul>
+                <li>Developed and deployed web applications, focusing on both front-end and back-end components for
+                  optimized performance.</li>
+                <li>Collaborated with team members to integrate APIs, design responsive user interfaces, and maintain
+                  database management systems.</li>
+                <li>Worked under tight deadlines to manage multiple projects, ensuring all tasks were completed
+                  efficiently and to a high standard.</li>
+                <li>Produced detailed technical documentation, presentations, and reports to communicate project
+                  progress and outcomes with stakeholders.</li>
+              </ul>
+            </div>
+            <!-- End Resume Item -->
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </section><!-- /Resume Section -->
+
+
+
+
+
+
+    <!-- project section   -->
+    <section class="project_wraper">
+      <div class="">
+        <div class="">
+          <div class="title-caption">
+            <h2> Projects</h2>
+            <h3>Developed Real-World Applications, Enhancing User Experience through Full Stack technologies</h3>
+          </div>
+          <div class="">
+            <div class="audios">
+              <audio controls src="assets/">description for one of my project</audio>
+              <p>this project is the most developer one and as the first project i showed my potential to my clients
+              </p>
+            </div>
+            <div class="audios">
+              <audio controls src="assets/">thanking fordoing an increadieble project</audio>
+              <p>this project is also the most developer one and as the first project i showed my potential to my
+                clients </p>
+            </div>
+
+          </div>
+
+
+          <!-- youtube video my edits -->
+          <div class="myvideos">
+            <div class="">
+
+              <iframe width="560" height="315" style="border: none;"
+                src="https://www.youtube.com/embed/3wYwcqZgq1o?si=Y2YTX5WLIBDB9UWw" title="YouTube video player"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin" allowfullscreen>
+              </iframe>
+              <h2>My YouTube Edits</h2>
+            </div>
+            <div class="">
+
+              <iframe width="560" height="315" style="border: none;"
+                src="https://www.youtube.com/embed/zKDs9ifFy1o?si=9VHcLVEgLtKCpf0w" title="YouTube video player"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin" allowfullscreen>
+              </iframe>
+              <h2>My Most Known Edits</h2>
+
+
+            </div>
+
+          </div>
+          <div class="">
+            <div class="service-item ">
+              <div class="icon">
+                <i class=""></i>
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>my video editing project</h3>
+              </a>
+              <p>i have edited many videos to my client and they are very greatful about it i attach it on my project
+                page.</p>
+              <a href="#" class="stretched-link"></a>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class=""></i>
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>graphices design</h3>
+              </a>
+              <p>as a graphics designer i included my self to many thing like social media managing i do those thing
+              </p>
+              <a href="#" class="stretched-link"></a>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="">
+            <div class="service-item">
+              <div class="icon">
+                <i class=""></i>
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>Python developing project</h3>
+              </a>
+              <p> i do a lot of python projects like e-banking system and so on</p>
+              <a href="#" class="stretched-link"></a>
+
+            </div>
+          </div><!-- End Service Item -->
+        </div>
+      </div>
+    </section>
+    <!-- end of Project  page -->
+
+
+
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact-section">
+
+      <!-- Section Title -->
+      <div class="container">
+        <h2>Contact</h2>
+        <p>Reach Out – I’d Love to Hear From You</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="info-wrap">
+          <div class="">
+
+            <div class="">
+              <div class="info-item ">
+                <i class=""></i>
+                <div>
+                  <h3>Address</h3>
+                  <p>4 kilo, Addis Ababa</p>
+                </div>
+              </div>
+            </div><!-- End Info Item -->
+
+            <div class="">
+              <div class="info-item ">
+                <i class="telephone "></i>
+                <div>
+                  <h3>Call Me</h3>
+                  <p>+251 901 851 873</p>
+                </div>
+              </div>
+            </div><!-- End Info Item -->
+
+            <div class="">
+              <div class="info-item ">
+                <i class="envelope "></i>
+                <div>
+                  <h3>Email Me</h3>
+                  <p>ruthyeshitla12@gmail.com</p>
+                </div>
+              </div>
+            </div><!-- End Info Item -->
+
+          </div>
+        </div>
+
+        <form>
+          <div class="">
+
+            <div class="">
+              <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
+            </div>
+
+            <div class="">
+              <input type="email" class="form-control" name="email" placeholder="Your Email" required="">
+            </div>
+
+            <div class="">
+              <input type="text" class="form-control" name="subject" placeholder="Subject" required="">
+            </div>
+
+            <div class="">
+              <textarea class="form-control" name="message" placeholder="Message" required=""></textarea>
+            </div>
+
+            <div class="text-center">
+              <div class="loading">Loading</div>
+              <div class="error-message"></div>
+              <div class="sent-message">Your message has been sent. Thank you!</div>
+
+              <button type="submit">Send Message</button>
+            </div>
+
+          </div>
+        </form><!-- End Contact Form -->
+      </div>
+    </section><!-- /Contact Section -->
+  </main>
+
+
+  <footer id="footer" class="footer ">
+
+    <div class="container">
+      <div class="copyright ">
+        <p>© <span>Copyright</span><span>All Rights Reserved</span></p>
+      </div>
+      <div class="social-links ">
+
+        <a href=""><i class="facebook"></i></a>
+        <a href=""><i class="instagram"></i></a>
+        <a href="https://www.linkedin.com/in/ruth-yeshitila-4072b0298/"><i class="linkedin"></i></a>
+
+      </div>
+
+    </div>
+
+  </footer>
+
+
+  <!-- Vendor JS Files -->
+
+
+  <!-- Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
